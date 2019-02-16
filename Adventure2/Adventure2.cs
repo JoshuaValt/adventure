@@ -28,7 +28,8 @@ namespace Adventure
             //conditions.Add("wet");
             //conditions.Add("cold");
             //conditions.Add("dry");
-          
+            //conditions.Add("sleeping");
+
 
             while (health > 0 && escaped == false)
             {
