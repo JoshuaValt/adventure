@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Adventure2\Adventure2\bin\Debug\Adventure2.exe.config
+C:\Users\admin\source\repos\Adventure2\Adventure2\bin\Debug\Adventure2.exe
+C:\Users\admin\source\repos\Adventure2\Adventure2\bin\Debug\Adventure2.pdb
+C:\Users\admin\source\repos\Adventure2\Adventure2\obj\Debug\Adventure2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Adventure2\Adventure2\obj\Debug\Adventure2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Adventure2\Adventure2\obj\Debug\Adventure2.exe
+C:\Users\admin\source\repos\Adventure2\Adventure2\obj\Debug\Adventure2.pdb
+C:\Users\crew\Downloads\Adventure2\Adventure2\bin\Debug\Adventure2.exe.config
+C:\Users\crew\Downloads\Adventure2\Adventure2\bin\Debug\Adventure2.exe
+C:\Users\crew\Downloads\Adventure2\Adventure2\bin\Debug\Adventure2.pdb
+C:\Users\crew\Downloads\Adventure2\Adventure2\obj\Debug\Adventure2.csprojAssemblyReference.cache
+C:\Users\crew\Downloads\Adventure2\Adventure2\obj\Debug\Adventure2.csproj.CoreCompileInputs.cache
+C:\Users\crew\Downloads\Adventure2\Adventure2\obj\Debug\Adventure2.exe
+C:\Users\crew\Downloads\Adventure2\Adventure2\obj\Debug\Adventure2.pdb
