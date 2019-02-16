@@ -28,7 +28,7 @@ namespace Adventure
             //conditions.Add("wet");
             //conditions.Add("cold");
             //conditions.Add("dry");
-            //conditions.Add("catatonic");
+            //conditions.Add("petrified");
 
 
             while (health > 0 && escaped == false)
