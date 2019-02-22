@@ -605,9 +605,9 @@ namespace Adventure
                 answer = GetUserInput(question);
 
             }
-            else if (answer.Contains("use "))
+            else if (answer.StartsWith("use "))
             {
-                if (answer.Contains(" medical supplies"))
+                if (answer.EndsWith(" medical supplies"))
                 {
                     if (inventory.Contains("medical supplies"))
                     {
@@ -617,7 +617,7 @@ namespace Adventure
                     }
                    
                 }
-                if (answer.Contains(" potion"))
+                if (answer.EndsWith(" potion"))
                 {
                     if (inventory.Contains("potion"))
                     {
@@ -627,7 +627,19 @@ namespace Adventure
                     }
                 }
             }
-            
+            else if (answer.StartsWith("drop "))
+            {
+                string item = answer.Substring(5, answer.Length - 5);
+                if (inventory.Contains(item))
+                {
+                    inventory.Remove(item);
+                    Console.WriteLine($"You have droped {item}.");
+                }
+                else
+                {
+                    Console.WriteLine($"You do not have a {item}.");
+                }
+            }
                 return answer;
             
         }
